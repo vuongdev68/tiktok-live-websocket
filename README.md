@@ -13,6 +13,7 @@ We provide a WebSocket service that connects directly to TikTok Live and deliver
   - 💬 Comments
   - ...
 - Easily integrate with Discord bots or any system using WebSocket.
+# DEMO: https://reactor.tokpilot.com/ws/overlay
 # contact
 Discord: https://discord.gg/YsYppxg392
 
