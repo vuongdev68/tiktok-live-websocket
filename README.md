@@ -16,7 +16,7 @@ RaidTok service:
   - ...
 - Easily integrate with Discord bots or any system using WebSocket.
 # DEMO: https://reactor.tokpilot.com/ws/overlay
-# contact
+# Contact 
 Discord: https://discord.gg/YsYppxg392
 
 
