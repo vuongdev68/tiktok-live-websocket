@@ -2,6 +2,8 @@
 
 We provide a WebSocket service that connects directly to TikTok Live and delivers real-time events such as gifts, room joins, follows, shares, likes, and more.
 
+RaidTok service:
+- TIKTOK LIVE, TIKTOK WEBSOCKET
 ## 🔗 Features
 
 - Receive real-time TikTok Live events:
